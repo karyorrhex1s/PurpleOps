@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 # PurpleOps — Logbook
 
 Author: karyorrhex1s  
@@ -17,6 +18,3 @@ Why
 Contribute
 - Follow the template in `/templates/entry-template.md`.
 - Make PRs with small, focused entries. Use issues for new TTP proposals.
-
-License
-- See LICENSE.md (MIT recommended)
