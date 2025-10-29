@@ -1,0 +1,15 @@
+# Placeholder Sigma rule — fill with detection details later
+title: SSH Key Access then Outbound Transfer (placeholder)
+id: placeholder-sshkey-0001
+status: draft
+description: Placeholder rule for SSH key read followed by external transfer. Replace with auditd/EDR event mappings.
+author: karyorrhex1s
+logsource:
+  product: linux
+detection:
+  selection:
+    EventID: 0
+  condition: selection
+falsepositives:
+  - placeholder
+level: medium
