@@ -1,0 +1,8 @@
+{
+  "id": "0001",
+  "title": "SSH key exfiltration via HTTP POST (placeholder)",
+  "authors": ["karyorrhex1s"],
+  "date": "2025-10-29",
+  "att&ck": ["T1041"],
+  "platforms": ["Linux","macOS"]
+}
